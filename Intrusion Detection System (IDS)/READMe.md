@@ -1,4 +1,4 @@
-/b Cisco Packet Tracer Projects
+# Cisco Packet Tracer Projects
 All Networking Related Practicals in Cisco Packet Tracer
 
 ## About Cisco Packet Tracer
